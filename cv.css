@@ -1,0 +1,151 @@
+*{
+    padding: 0vw;
+    margin: 0vw;
+}
+body{
+    background-color: lightslategray;
+   font-family: 'Roboto', sans-serif;
+}
+img{
+    
+    padding: 0px;
+    height: 140px;
+    width: 120px;
+    border: cyan solid 3px;
+    border-radius: 50%;
+    float: left;
+}
+.container{
+    background-color: darkkhaki;
+    margin: 0vw auto;
+    max-width: 1000px;
+    padding:20px ;
+  
+}
+.header{
+    background-color: darkkhaki;
+    margin: 0vw auto;
+    max-width: 1000px;
+    
+}
+.head{
+    font-style: italic;
+    float: left;
+     padding: 30px;
+}
+h1,h2,h3,h4,h5{
+    color: purple;
+}
+.contact{
+     float: right;
+    padding: 30px;
+}
+.contact a{
+text-decoration: none;
+color: teal;
+font-weight: bold;
+font-size: 1.5vw;
+}
+.contact a:hover{
+
+    text-decoration: underline;
+    color: tomato;
+}
+.head-clear{
+    clear: both;
+} 
+hr{
+    border: tomato solid 2px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+
+.personal{
+     float: left;
+    padding: 30px;
+    color: mediumblue;
+}
+.infornation{
+     background-color: floralwhite;
+    float: right;
+    color: firebrick;
+    font-weight: bold;
+    width: 60%;
+    text-align: center;
+    
+}
+.clear-both{
+    clear: both;
+}
+.line{
+    border: blueviolet 1px solid;
+}
+.skill{
+float: left;
+width: 30%;
+padding: 30px;
+font-weight: 900;
+}
+.my-skill{
+color: navy;
+background-color: paleturquoise;
+float: right;
+font-weight: bold;
+width: 60%;
+text-align: center;
+}
+
+.color{
+    
+
+    font-weight: bold;
+}
+.edu{
+    float: left;
+    padding: 30px;
+    font-weight: 900;
+    width: 30%;
+}
+.high{
+ font-weight: bold;
+    background-color: seashell;
+    float: right;
+    color: rebeccapurple;
+    font-weight: bold;
+    width: 60%;
+    text-align: center;
+
+}
+
+.bold{
+    font-weight: bold;
+}
+.foot{
+    text-align: center;
+    background-color: darkgrey;
+    padding: 5px;
+}
+.foot a{
+    color: brown;
+    text-decoration: none;
+    border-bottom: ;
+    font-weight: bold;
+    margin: 40px;
+}
+.foot a:hover{
+    text-decoration: underline;
+    color: cornsilk;
+    margin: 40px;
+    width: 120px;
+    height: 100px;
+}
+
+.cpoy{
+    margin: 20px;
+    color: mediumvioletred;
+    font-weight: 500;
+    font-style: italic;
+    font-size: medium;
+    font-family: fantasy;
+}
